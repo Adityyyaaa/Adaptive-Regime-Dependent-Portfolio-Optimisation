@@ -2,8 +2,6 @@
 
 This repository contains the implementation of the thesis project:  
 **"Regime-Dependent Portfolio Optimization: An Integrated Framework of Statistics, Risk-Parity and Deep Learning"**  
-by **Aditya Kulkarni** (Roll No. 20124054)  
-submitted to the Department of Mathematical Sciences, IIT (BHU), Varanasi in partial fulfillment for the Integrated Dual Degree (B.Tech + M.Tech) in Mathematics and Computing.
 
 ## 📘 Abstract
 
@@ -57,5 +55,5 @@ Portfolios are constructed for the following **10 NSE Thematic Sectors**:
 ## 📬 Contact
 
 For questions or collaborations, reach out to:
-📧 aditya.kulkarni.cd.mat20@iitbhu.ac.in (example)
+📧 whyaditya07@gmail.com
 
